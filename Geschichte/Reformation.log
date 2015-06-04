@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.24)  31 MAY 2015 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.24)  4 JUN 2015 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Coaching-Memorandum.tex
-(./Coaching-Memorandum.tex
+**Reformation.tex
+(./Reformation.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 37 languages loaded.
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -478,8 +478,8 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./Coaching-Memorandum.aux)
-\openout1 = `Coaching-Memorandum.aux'.
+) (./Reformation.aux)
+\openout1 = `Reformation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
@@ -586,25 +586,21 @@ LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
 
-(./Coaching-Memorandum.out) (./Coaching-Memorandum.out)
+(./Reformation.out) (./Reformation.out)
 \@outlinefile=\write3
-\openout3 = `Coaching-Memorandum.out'.
+\openout3 = `Reformation.out'.
 
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 74.
 
 (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Coaching-Logo_1280-720.jpg, id=4, 1284.8pt x 722.7pt>
-File: Coaching-Logo_1280-720.jpg Graphic file (type jpg)
+<Martin_Luther.jpg, id=4, 115.3911pt x 168.63pt>
+File: Martin_Luther.jpg Graphic file (type jpg)
+ <use Martin_Luther.jpg>
+Package pdftex.def Info: Martin_Luther.jpg used on input line 79.
+(pdftex.def)             Requested size: 152.81383pt x 223.31789pt.
 
-<use Coaching-Logo_1280-720.jpg>
-Package pdftex.def Info: Coaching-Logo_1280-720.jpg used on input line 79.
-(pdftex.def)             Requested size: 152.81383pt x 85.94832pt.
-
-(/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
 Underfull \hbox (badness 10000) in paragraph at lines 76--112
 
  []
@@ -614,96 +610,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Coaching-Logo_1280-720.j
-pg>]
-LaTeX Font Info:    Try loading font information for TS1+lmss on input line 131
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for TS1+lmss on input line 119
 .
- (/usr/share/texmf-dist/tex/latex/lm/ts1lmss.fd
+
+(/usr/share/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 167.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 167.
- [2]
-Overfull \hbox (3.7718pt too wide) in paragraph at lines 193--194
-[]\T1/lmss/m/n/10.95 Unterstützung für die Auf-nah-me als Mit-glied im Deut-sch
-en Bun-des-ver-band Coa-ching e.V. (DBVC) 
- []
-
-[3] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 254--256
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+[1
 
- []
-
-(/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 293--295
-
- []
-
-[5] [6]
-Overfull \hbox (13.98613pt too wide) in paragraph at lines 339--340
-\T1/lmss/m/n/10.95 n-[]B e r l i n -[]F r a n k f u r t-[]M u e n c h e n -[]RW
-E-[]C o n s u l t i n g -[]G m bH-[]-[] 3 3 2 0 8 2 9 -[] i n l i n e . h t m l
- ? c i d =J a J o b-[] j a p u-[] h o m
- []
-
-
-Overfull \hbox (0.54051pt too wide) in paragraph at lines 339--340
-\T1/lmss/m/n/10.95 e p a g e-[] 0 5-[] 2 0 1 5 _ p s _ 1 _ 4 _ o ^^[ e r t i t 
-l e & j a c i d = 8 3 8 5 1 9 3 -[] 0 5-[] 2 0 1 5 & n c t i d = 2 0 1 5 0 5 2 
-8 & i n t c i d = JA t e s t _
- []
-
-
-Overfull \hbox (9.51752pt too wide) in paragraph at lines 350--352
-\T1/lmss/m/n/10.95 e r -[]M u e l h e i m -[] a n-[] d e r -[]R u h r -[]ALDI-[
-]SU e D-[]-[] 3 3 2 8 7 0 5 -[] i n l i n e . h t m l ? i sHJ = f a l s e & i s
- HJR = f a l s e & s s aPOP =
- []
-
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
- (./Coaching-Memorandum.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
-Package rerunfilecheck Info: File `Coaching-Memorandum.out' has not changed.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Martin_Luther.jpg>]
+[2]
+Missing character: There is no ÿ in font pzdr!
+ [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+ (./Reformation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package rerunfilecheck Info: File `Reformation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 400.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
  ) 
 Here is how much of TeX's memory you used:
- 9699 strings out of 494336
- 132647 string characters out of 6163214
- 236131 words of memory out of 5000000
- 12733 multiletter control sequences out of 15000+600000
- 64419 words of font info for 59 fonts, out of 8000000 for 9000
+ 8780 strings out of 494336
+ 123071 string characters out of 6163214
+ 218083 words of memory out of 5000000
+ 11876 multiletter control sequences out of 15000+600000
+ 56219 words of font info for 49 fonts, out of 8000000 for 9000
  373 hyphenation exceptions out of 8191
- 29i,8n,30p,1064b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,30p,335b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
 nts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10
-.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-di
-st/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/
-lmr9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></
-usr/share/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on Coaching-Memorandum.pdf (8 pages, 614844 bytes).
+.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-
+dist/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></u
+sr/share/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on Reformation.pdf (4 pages, 186221 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

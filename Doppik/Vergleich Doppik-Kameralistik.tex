@@ -1,0 +1,290 @@
+% !TeX encoding = ISO-8859-1
+\documentclass[
+10pt,			%Schriftgröße
+paper=a4,		%Papierformat
+ngerman,		%Deutsche Silbentrennung
+BCOR=0pt,		%Bindekorrektureinstellung=AN (15mm) Bindekorrektureinstellung=AUS > 0pt
+%twoside,		%Bindekorrektur für zweiseitigen Druck
+DIV=calc,		%Satzspiegelberechnung
+headinclude,	%Kopfzeile bei Satzspiegelberechnung mit einbeziehen
+headsepline,	%Trennlinie unter der Kopfzeile
+numbers=noenddot,
+]{scrreprt}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[sc]{mathpazo}
+
+% Satzspiegel wird neu berechnet
+\typearea[current]{calc}
+
+\usepackage[ansinew]{inputenc}
+
+% Paket für besseres Schriftbild
+\usepackage{microtype}
+
+
+% Allgemeine Pakete:
+
+\usepackage{xcolor}
+\usepackage[ngerman]{babel}
+\usepackage{relsize}
+\usepackage{paralist}
+\usepackage{mdwlist}
+\usepackage{typearea}
+\usepackage{setspace}
+\usepackage{textcomp}
+\usepackage{marvosym}
+
+\usepackage{fancybox}
+\usepackage{array}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{pifont}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage{tikz}
+\usepackage{pgf-pie}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.8}
+
+
+\usetikzlibrary{shapes,arrows,shadows}
+
+\usepackage{scrpage2}
+
+% Pakete für Abbildungen
+\usepackage{graphicx}
+\usepackage{floatrow}
+\usepackage{floatpag}
+
+
+
+% Fußnotengefrickel muss vor HYPERREF geladen werden
+\usepackage[bottom,flushmargin,hang,multiple]{footmisc}
+
+%Hyperxmp-Paket einbinden für PDF-Metadaten
+\usepackage{hyperxmp} 
+
+% Rahmen um Hyperlinks unterbinden
+\usepackage[bookmarks=true,pdftoolbar=true,pdfmenubar=true,pdfstartview={FitH},citecolor=magenta,hidelinks,breaklinks=true]{hyperref}
+
+\hypersetup{ %
+pdftitle={Gasmarktliberalisierung im Baltikum}
+pdfauthor={Pascal Bernhard}
+pdfproducer={Texlive-LaTeX 2013 on Sabayon GNU/Linux 3.12 & 3.13}
+pdfcopyright={Creative Commons 3.0 CC-BY}
+pdflicenseurl={https://creativecommons.org/licenses/by/3.0/de/legalcode}
+pdfmetalang={de-DE}
+}
+
+
+
+
+%%% Auf tatsächlichen Namen des Abschnitts verlinken
+\usepackage{titleref}
+\usepackage{nameref}
+
+
+
+% Abstände zwischen Überschrift und Textkörper modifizieren [PAKET NICHT INSTALLIERT!!!!]
+%\titlesec
+
+% Gleiche Schriftart für Hyperlinks
+\urlstyle{same}
+
+
+%  Gefrickel um URL-Links vernünftig umzubrechen
+\makeatletter
+\g@addto@macro\UrlBreaks{
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0}
+% \def\do@url@hyp{\do\-}
+
+% Hiermit soll einer übervolle Box verhindert werden -- funktioniert sogar irgendwie
+\g@addto@macro\UrlSpecials{\do\/{\mbox{\UrlFont/}\hskip 0pt plus 1pt}}
+\makeatother
+
+% Hier kommen Optionen der KOMA-Klasse zu Überschriften
+\KOMAoptions{headings=small}
+
+% Einstellungen fpr Kopfzeilen
+\ihead{\leftmark} 
+\ohead{\rightmark} 
+\chead{} 
+\pagestyle{scrheadings} 
+\automark[section]{chapter}
+
+\setfootnoterule[0.8pt]{10cm} % Höhe und Länge des Trennstriches für Fußnoten anpassen
+\setkomafont{caption}{\sffamily} % Bezeichnungen von Bilder werden serifenlos und fett gesetzt
+\setkomafont{captionlabel}{\sffamily\bfseries} % Beschreibungen von Bilder werden serifenlos und fett gesetzt
+
+\renewcommand{\headfont}{\small\sffamily\mdseries} % Schriftart der Kopfzeile ändern
+
+
+
+%%%----------------------------------------------------------------------
+\definecolor{dunkelgrau}{gray}{0.20}
+\definecolor{hellgrau}{gray}{0.40}
+\definecolor{MidnightBlue}{RGB}{0,103,149}
+\definecolor{NavyBlue}{RGB}{0,110,184}
+\definecolor{MidBlue}{rgb}{0.173,0.212,0.597}
+\definecolor{Dschungel}{cmyk}{0.99,0,0.52,0.2}
+
+
+%%% Palatino benörtigt größeren Raum zwischen den Zeilen
+\linespread{1.05}
+
+
+\onehalfspacing
+\typearea[current]{calc}
+
+
+
+%%% Schriften umdefinieren:
+
+\newcommand{\changefont}[3]{
+\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}
+
+\newcommand{\textemph}{\textsl{\textbf}}
+%%%----------------------------------------------------------------------
+\begin{document}
+
+\begin{spacing}{1}
+
+%%% Deckblatt Start
+\thispagestyle{empty}
+
+
+\begin{center}
+\Large{Hochschule für Wirtschaft und Recht Berlin}\\
+\end{center}
+ 
+ 
+\begin{center}
+\Large{Bachelor-Studiengang }
+\end{center}
+\begin{verbatim}
+ 
+ 
+\end{verbatim}
+\begin{center}
+\textbf{\LARGE{\changefont{ppl}{b}{n}
+\sffamily{Hausarbeit}}}
+\end{center}
+\begin{verbatim}
+ 
+ 
+\end{verbatim}
+\begin{center}
+\textbf{\changefont{ppl}{b}{n}
+\sffamily{im Studiengang Politik}}
+\end{center}
+\begin{verbatim}
+ 
+ 
+\end{verbatim}
+ 
+\begin{flushleft}
+\begin{tabular}{lll}
+
+\textbf{Thema:} & & Doppik \& Kameralistik --\\
+& & \\
+& & XXX\\
+& & \\
+& & \\
+& & \\
+
+
+
+\textbf{eingereicht von:} & & Aida Kaloki \flq{}aidakal@yahoo.com\frq{}\\
+& & \\
+& & \\
+\textbf{eingereicht am:} & & 16. Juni 2016\\
+& & \\
+& & \\
+\textbf{Betreuer:} & & Herr Prof. Dr. XX\\
+\textbf{Betreuer:} & & Frau Prof. Dr. XX
+\end{tabular}
+
+\newpage
+
+\thispagestyle{empty}
+
+
+%\textbf{Diese Diplomarbeit widme ich Frau Andrea Volmary und Herrn Kai-Uwe Christoph, ohne deren Hilfe mein Studienabschluss nicht möglich gewesen wäre.}
+
+\end{flushleft}
+
+\end{spacing}
+ 
+%Deckblatt Ende
+
+
+%%%Palatino als Standardschrift
+\renewcommand{\rmdefault}{ppl}
+
+\renewcommand\thesubsection{\thesection.\alph{subsection}}
+
+%%%Inhaltsverzeichnis----------------------------------------------------------------------
+
+\cleardoublepage
+\begingroup
+\renewcommand*{\chapterpagestyle}{empty}
+\pagestyle{empty}
+\tableofcontents
+\clearpage
+\endgroup
+
+%%%----------------------------------------------------------------------
+\setlength{\parindent}{30pt}
+\setlength{\parskip}{0pt}
+
+
+%%%-----------------------------------------------------------------------
+
+%%%Einleitung
+
+
+
+\chapter{Einleitung}
+
+
+\chapter{Thema \& Fragestellung}
+
+
+\chapter{Haushaltswesen}
+
+Alle mit dem Haushalt einer öffentliche Gebietskörperschaft zusammenhängenden Bereich werden unter dem Oberbegriff \textsl{Haushaltswesen} gefasst. Hierzu zählen unter anderem die Haushaltsplanung, der Haushaltsvollzug und die Haushaltssteuerung. Je nach Rechnungsstil kann das Haushaltswesen einen sogenannten \textsl{kameralen}, \textsl{erweiterten kameralen}, oder \textsl{doppischen} Charakter haben. Den Kern des Haushaltswesen bildet unabhängig vom angewandten Rechnungsstil der Haushaltsplan
+
+
+\section{Budgetrecht}
+
+
+
+\section{Entwicklungen im Haushaltswesen}
+
+
+\subsection{Neues Steuerungsmodell}
+
+
+\section{Rechnungswesen}
+
+
+\chapter{Kameralistische Haushaltsführung}
+
+
+\chapter{Doppik}
+
+
+\chapter{Vergleich der Haushaltssysteme}
+
+
+\section{Vor- und Nachteile der Haushaltssysteme}
+
+
+\section{Haushaltsgrundsätze}
+
+
+
+\end{document}

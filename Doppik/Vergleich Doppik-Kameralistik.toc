@@ -6,8 +6,10 @@
 \contentsline {section}{\numberline {3.2}Entwicklungen im Haushaltswesen}{5}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.a}Neues Steuerungsmodell}{5}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}Rechnungswesen}{5}{section.3.3}
-\contentsline {chapter}{\numberline {4}Kameralistische Haushaltsf\"uhrung}{6}{chapter.4}
-\contentsline {chapter}{\numberline {5}Doppik}{7}{chapter.5}
-\contentsline {chapter}{\numberline {6}Vergleich der Haushaltssysteme}{8}{chapter.6}
-\contentsline {section}{\numberline {6.1}Vor- und Nachteile der Haushaltssysteme}{8}{section.6.1}
-\contentsline {section}{\numberline {6.2}Haushaltsgrunds\"atze}{8}{section.6.2}
+\contentsline {chapter}{\numberline {4}Buchf\"uhrungsstile}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Kameralistische Haushaltsf\"uhrung}{6}{section.4.1}
+\contentsline {section}{\numberline {4.2}Doppik}{7}{section.4.2}
+\contentsline {chapter}{\numberline {5}Vergleich der Haushaltssysteme}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Vor- und Nachteile der Haushaltssysteme}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}Haushaltsgrunds\"atze}{8}{section.5.2}
+\contentsline {chapter}{\numberline {6}Literaturverzeichnis}{9}{chapter.6}

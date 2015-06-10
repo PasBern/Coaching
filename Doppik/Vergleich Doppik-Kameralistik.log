@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.24)  7 JUN 2015 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.24)  10 JUN 2015 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1481,111 +1481,128 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 271.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
 [5
 
 ]
 Kapitel 4.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 273.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 275.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 275.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 283.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 283.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 283.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 283.
 [6
 
 ]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 285.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 288.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 288.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 288.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 288.
+ [7]
 Kapitel 5.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 288.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 277.
+(babel)             in language  on input line 288.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 291.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 291.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 294.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 280.
-[7
+(babel)             in language  on input line 294.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 296.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 296.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 296.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 296.
+[8
 
 ]
 Kapitel 6.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 296.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 296.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 300.
+(/usr/share/texmf-dist/tex/latex/marvosym/umvs.fd)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
+)
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 283.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 283.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 286.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 290.
-Package atenddvi Info: Last page = 8.
-[8
+(babel)             in language  on input line 305.
+Package atenddvi Info: Last page = 9.
+ [9
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 290.
- (./Vergleich Doppik-Kameralistik.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 305.
 
-
-Package rerunfilecheck Warning: File `"Vergleich Doppik-Kameralistik".out' has 
-changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Vergleich Doppik-Kameralistik".out
-':
-(rerunfilecheck)             Before: 776AD52AD8EED179AA52A820BF2077BE;635
-(rerunfilecheck)             After:  AEB404FB4D03B1CAA7EB16CE61CE8895;754.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 290.
+(./Vergleich Doppik-Kameralistik.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package rerunfilecheck Info: File `"Vergleich Doppik-Kameralistik".out' has not
+ changed.
+(rerunfilecheck)             Checksum: B886FDD999EF5DB859543059F17870B5;888.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
  ) 
 Here is how much of TeX's memory you used:
- 34520 strings out of 494336
- 776677 string characters out of 6163214
- 1018422 words of memory out of 5000000
- 37025 multiletter control sequences out of 15000+600000
- 54643 words of font info for 120 fonts, out of 8000000 for 9000
+ 34643 strings out of 494336
+ 778379 string characters out of 6163214
+ 1019423 words of memory out of 5000000
+ 37080 multiletter control sequences out of 15000+600000
+ 66302 words of font info for 175 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  64i,11n,82p,751b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.3.1.1} has been referenced but does no
-t exist, replaced by a fixed one
-
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts
-/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.p
-fb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf
--dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/ur
-w/palatino/uplri8a.pfb>
-Output written on "Vergleich Doppik-Kameralistik.pdf" (8 pages, 84556 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
+nts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmss9.pf
+b></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf-dist/fonts/type1
+/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a
+.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "Vergleich Doppik-Kameralistik.pdf" (9 pages, 120644 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 31937 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 36065 words of extra memory for PDF output out of 42996 (max. 10000000)
 

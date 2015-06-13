@@ -10,5 +10,5 @@
 \contentsline {section}{\numberline {4.1}Kameralistische Haushaltsf\"uhrung}{7}{section.4.1}
 \contentsline {section}{\numberline {4.2}Doppik}{10}{section.4.2}
 \contentsline {chapter}{\numberline {5}Vergleich der Haushaltssysteme}{11}{chapter.5}
-\contentsline {section}{\numberline {5.1}Vor- und Nachteile der Haushaltssysteme}{12}{section.5.1}
-\contentsline {chapter}{\numberline {6}Literaturverzeichnis}{13}{chapter.6}
+\contentsline {chapter}{\numberline {6}Fazit}{13}{chapter.6}
+\contentsline {chapter}{\numberline {7}Literaturverzeichnis}{14}{chapter.7}

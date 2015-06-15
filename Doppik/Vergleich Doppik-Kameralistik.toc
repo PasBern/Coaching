@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {3.3}Haushaltsgrunds\"atze}{6}{section.3.3}
 \contentsline {chapter}{\numberline {4}Formen der Buchf\"uhrung}{7}{chapter.4}
 \contentsline {section}{\numberline {4.1}Kameralistische Haushaltsf\"uhrung}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}Doppik}{8}{section.4.2}
-\contentsline {chapter}{\numberline {5}Vergleich der Haushaltssysteme}{10}{chapter.5}
-\contentsline {section}{\numberline {5.1}Fazit}{11}{section.5.1}
-\contentsline {chapter}{\numberline {6}Literaturverzeichnis}{12}{chapter.6}
+\contentsline {section}{\numberline {4.2}Doppik}{9}{section.4.2}
+\contentsline {chapter}{\numberline {5}Vergleich der Haushaltssysteme}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Fazit}{12}{section.5.1}
+\contentsline {chapter}{\numberline {6}Literaturverzeichnis}{13}{chapter.6}
